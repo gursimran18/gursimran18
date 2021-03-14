@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="mysql" width="40" height="35"/>, I'm Gursimran Kaur Saini  <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="mysql" width="40" height="40"/></br></h1>
 <p align="center">
-<a href="https://linkedin.com/in/gursimran-kaur-saini-193a5a1a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gursimran-18-saini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gursimran-18-saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gursimran-18-saini" height="30" width="40" /></a>
   <a href="https://github.com/gursimran18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gursimran-kaur-saini-193a5a1a5" height="35" width="35" /></a>
 </p>
 <p>Glad to see you here! 🤩</br>
